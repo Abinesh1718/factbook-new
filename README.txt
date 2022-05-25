@@ -1,0 +1,6 @@
+-There are two fils 
+-Fist to count the values 
+-these files are remove Duplicated values or Data 
+-Then two files are merge with one file abi4.csv
+- Then replace the camma instead of semi colen
+-Finnaly to sort the assending order wise data
